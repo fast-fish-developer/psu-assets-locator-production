@@ -1,4 +1,4 @@
-#psu-assets-locator-production
+####psu-assets-locator-production
 
 First, install node modules:
 
@@ -13,4 +13,4 @@ To run application:
 npm start
 ```
 
-Open [http://localhost](http://localhost) with your browser .
+Open [http://localhost](http://localhost) with your browser to view your application.
