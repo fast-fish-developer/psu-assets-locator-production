@@ -1,0 +1,41 @@
+{
+  "name": "psu-asset-locator-2024",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "sudo next start -p 80",
+    "start-o": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "apexcharts": "^3.54.1",
+    "bcryptjs": "^2.4.3",
+    "fabric": "^6.4.3",
+    "fabric-pure-browser": "^5.1.0",
+    "fabricjs-react": "^1.2.2",
+    "indoorjs": "^1.0.27",
+    "jose": "^5.9.6",
+    "jsonwebtoken": "^9.0.2",
+    "next": "^15.1.2",
+    "next-auth": "^4.24.10",
+    "npm": "^11.0.0",
+    "react-apexcharts": "^1.4.1",
+    "rimraf": "^6.0.1"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cookie": "^0.6.0",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.15",
+    "jsdom": "^25.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
