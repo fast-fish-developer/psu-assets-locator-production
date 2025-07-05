@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/assets/route": "app/api/assets/route.js",
+  "/api/storeJSON/route": "app/api/storeJSON/route.js",
+  "/page": "app/page.js",
+  "/page/asset-locator-v1/page": "app/page/asset-locator-v1/page.js",
+  "/page/asset-locator/map/[slug]/page": "app/page/asset-locator/map/[slug]/page.js",
+  "/page/asset-locator/map2/[slug]/page": "app/page/asset-locator/map2/[slug]/page.js",
+  "/page/asset-locator/page": "app/page/asset-locator/page.js",
+  "/page/dashboard/page": "app/page/dashboard/page.js",
+  "/page/login/page": "app/page/login/page.js",
+  "/page/asset-locator-v1/map/[slug]/page": "app/page/asset-locator-v1/map/[slug]/page.js",
+  "/page/asset-history/page": "app/page/asset-history/page.js"
+}

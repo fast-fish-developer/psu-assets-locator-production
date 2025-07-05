@@ -1,0 +1,23 @@
+{
+  "app/components/AssetHistoryTimeline.tsx -> react-apexcharts": {
+    "id": 2242,
+    "files": [
+      "static/chunks/3975359d.04842ad05d88c09a.js",
+      "static/chunks/242.6f18eea617355c7b.js"
+    ]
+  },
+  "app/components/BarChart.tsx -> react-apexcharts": {
+    "id": 2242,
+    "files": [
+      "static/chunks/3975359d.04842ad05d88c09a.js",
+      "static/chunks/242.6f18eea617355c7b.js"
+    ]
+  },
+  "app/components/PieChart.tsx -> react-apexcharts": {
+    "id": 2242,
+    "files": [
+      "static/chunks/3975359d.04842ad05d88c09a.js",
+      "static/chunks/242.6f18eea617355c7b.js"
+    ]
+  }
+}
