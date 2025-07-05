@@ -1,4 +1,4 @@
-####psu-assets-locator-production
+# psu-assets-locator-production
 
 First, install node modules:
 
